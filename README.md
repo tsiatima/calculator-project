@@ -18,7 +18,7 @@ This is a simple graphical calculator built using Python's Tkinter library. It p
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/the-calculator.git
+   git clone https://github.com/tsiatima/the-calculator.git
    ```
 2. Navigate to the project directory:
    ```bash
